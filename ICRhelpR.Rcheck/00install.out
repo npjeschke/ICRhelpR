@@ -1,0 +1,21 @@
+* installing *source* package 'ICRhelpR' ...
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+Warning: lacy_riffe_calc.Rd:20: unexpected section header '\value'
+Warning: lacy_riffe_calc.Rd:23: unexpected section header '\description'
+Warning: lacy_riffe_calc.Rd:31: unexpected section header '\examples'
+Warning: lacy_riffe_calc.Rd:36: unexpected END_OF_INPUT '
+'
+Warning: standard_error.Rd:12: unexpected section header '\value'
+Warning: standard_error.Rd:15: unexpected section header '\description'
+Warning: standard_error.Rd:19: unexpected section header '\examples'
+Warning: standard_error.Rd:22: unexpected END_OF_INPUT '
+'
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (ICRhelpR)

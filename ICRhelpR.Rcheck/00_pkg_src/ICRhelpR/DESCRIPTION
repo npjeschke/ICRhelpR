@@ -1,0 +1,23 @@
+Package: ICRhelpR
+Type: Package
+Title: ICR data helper for cacluating sample size and assigning coders
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Nathan", "Jeschke",
+      email = "nathan.jeschke@ucdenver.edu",
+      role = c("aut", "cre"),
+      comment = c(ORCID = "0000-0002-3646-0928")
+    )
+  )
+Description: Package for calculating sample size and preparing data for intercoder reliability work. Includes functions for:
+    calculating probability samples for intercoder reliability (Lacy & Riffe 1996); 
+    generating random samples of observations from a dataset;
+    assigning a full dataset to coders with a specified level of overlap
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+NeedsCompilation: no
+Packaged: 2025-02-25 15:04:14 UTC; npjes
+Author: Nathan Jeschke [aut, cre] (<https://orcid.org/0000-0002-3646-0928>)
+Maintainer: Nathan Jeschke <nathan.jeschke@ucdenver.edu>
