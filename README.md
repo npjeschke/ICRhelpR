@@ -18,21 +18,25 @@ You can install the development version of ICRhelpR from
 
 ``` r
 install.packages("pak")
-#> Installing package into 'C:/Users/npjes/AppData/Local/Temp/RtmpUvmBz5/temp_libpath780c4a426825'
+#> Installing package into 'C:/Users/npjes/AppData/Local/Temp/RtmpUvmBz5/temp_libpath780c33b82152'
 #> (as 'lib' is unspecified)
 #> package 'pak' successfully unpacked and MD5 sums checked
 #> 
 #> The downloaded binary packages are in
-#>  C:\Users\npjes\AppData\Local\Temp\Rtmpgndl8m\downloaded_packages
+#>  C:\Users\npjes\AppData\Local\Temp\RtmpYt5nvq\downloaded_packages
 pak::pak("npjeschke/ICRhelpR")
 #> 
 #> → Will update 1 package.
 #> → Will download 1 package with unknown size.
-#> + ICRhelpR 0.1.0 → 0.1.0 [bld][cmp][dl] (GitHub: 09d89d3)
+#> + ICRhelpR 0.1.0 → 0.1.0 [bld][cmp][dl] (GitHub: bbbe7c5)
 #> ℹ Getting 1 pkg with unknown size
-#> ✔ Cached copy of ICRhelpR 0.1.0 (source) is the latest build
-#> ✔ Installed ICRhelpR 0.1.0 (github::npjeschke/ICRhelpR@09d89d3) (72ms)
-#> ✔ 1 pkg: upd 1 [2.8s]
+#> ✔ Got ICRhelpR 0.1.0 (source) (14.10 kB)
+#> ℹ Packaging ICRhelpR 0.1.0
+#> ✔ Packaged ICRhelpR 0.1.0 (710ms)
+#> ℹ Building ICRhelpR 0.1.0
+#> ✔ Built ICRhelpR 0.1.0 (1.2s)
+#> ✔ Installed ICRhelpR 0.1.0 (github::npjeschke/ICRhelpR@bbbe7c5) (87ms)
+#> ✔ 1 pkg: upd 1, dld 1 (NA B) [5.5s]
 ```
 
 ## Calculating Sample Sizes
