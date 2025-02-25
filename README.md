@@ -18,10 +18,6 @@ You can install the development version of ICRhelpR from
 
 ``` r
 install.packages("pak")
-#> package 'pak' successfully unpacked and MD5 sums checked
-#> 
-#> The downloaded binary packages are in
-#>  C:\Users\npjes\AppData\Local\Temp\RtmpqcoM5G\downloaded_packages
 pak::pak("npjeschke/ICRhelpR")
 ```
 
