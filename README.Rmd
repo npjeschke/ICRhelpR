@@ -4,7 +4,7 @@ output: github_document
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-```{r, message=FALSE, warning=FALSE}
+```{r, include=FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
@@ -24,7 +24,7 @@ ICRhelpR is an R package to help make the preparation of data for intercoder rel
 
 You can install the development version of ICRhelpR from [GitHub](https://github.com/) with:
 
-```{r}
+```{r, message=FALSE, warning=FALSE}
 install.packages("pak")
 pak::pak("npjeschke/ICRhelpR")
 ```
